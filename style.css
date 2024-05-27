@@ -1,0 +1,29 @@
+
+body {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+nav {
+    max-width: 1000px;
+    height: 3rem;
+    background: #9a9a9a;
+    justify-content: flex-end;
+    align-items: center;
+    display: flex;
+
+}
+
+nav img {
+    height: 50%;
+    margin: 1rem auto auto 1rem;
+
+}
+
+nav a {
+    color: rgb(224, 224, 224);
+    align-self: flex-end;
+    display: flex;
+    padding: 1rem 1rem;
+    
+}
+
